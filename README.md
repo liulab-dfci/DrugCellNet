@@ -1,4 +1,4 @@
-# 2LNet
+# DrugCellNet
 Predicting Anticancer Drug Responses Using a Dual-Layer Integrated Cell Line-Drug Network Model
 
 - There are three R files in the attachment. If you want to test our model, you need only run demo.R.
